@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-agora": [
+      "react-native-agora-with-banuba": [
         "./src/index"
       ]
     },

@@ -5,7 +5,7 @@ import {
   ClientRoleType,
   IRtcEngineEventHandler,
   createAgoraRtcEngine,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 
 import {
   BaseAudioComponentState,

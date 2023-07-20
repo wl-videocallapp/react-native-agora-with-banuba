@@ -3,7 +3,7 @@ import {
   AudioMixingReasonType,
   AudioMixingStateType,
   ClientRoleType,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 
 import {
   AgoraButton,

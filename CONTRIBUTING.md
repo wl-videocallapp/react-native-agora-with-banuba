@@ -82,9 +82,9 @@ Remember to add tests for your change if possible. Run the unit tests by:
 yarn test
 ```
 
-To edit the Objective-C or Swift files, open `example/ios/AgoraRtcNgExample.xcworkspace` in XCode and find the source files at `Pods > Development Pods > react-native-agora`.
+To edit the Objective-C or Swift files, open `example/ios/AgoraRtcNgExample.xcworkspace` in XCode and find the source files at `Pods > Development Pods > react-native-agora-with-banuba`.
 
-To edit the Java or Kotlin files, open `example/android` in Android studio and find the source files at `react-native-agora` under `Android`.
+To edit the Java or Kotlin files, open `example/android` in Android studio and find the source files at `react-native-agora-with-banuba` under `Android`.
 
 
 ### Commit message convention

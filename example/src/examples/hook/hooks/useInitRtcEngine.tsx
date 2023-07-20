@@ -6,7 +6,7 @@ import createAgoraRtcEngine, {
   RtcConnection,
   RtcStats,
   UserOfflineReasonType,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 
 import Config from '../../../config/agora.config';
 import * as log from '../../../utils/log';

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-agora",
+  "name": "react-native-agora-with-banuba",
   "version": "4.2.1",
   "description": "Agora RTC SDK For React Native",
   "main": "lib/commonjs/index",
@@ -46,13 +46,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/AgoraIO-Extensions/react-native-agora",
+  "repository": "https://github.com/wl-videocallapp/react-native-agora-with-banuba",
   "author": "HUI <luxuhui@agora.io> (https://github.com/LichKing-2234)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AgoraIO-Extensions/react-native-agora/issues"
+    "url": "https://github.com/wl-videocallapp/react-native-agora-with-banuba/issues"
   },
-  "homepage": "https://github.com/AgoraIO-Extensions/react-native-agora#readme",
+  "homepage": "https://github.com/wl-videocallapp/react-native-agora-with-banuba#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

@@ -359,7 +359,7 @@ PODS:
   - React-jsinspector (0.71.4)
   - React-logger (0.71.4):
     - glog
-  - react-native-agora (4.2.1-beta.1):
+  - react-native-agora-with-banuba (4.2.1-beta.1):
     - AgoraIrisRTC_iOS (= 4.2.1-build.1)
     - AgoraRtcEngine_iOS (= 4.2.1)
     - React-Core
@@ -524,7 +524,7 @@ DEPENDENCIES:
   - React-jsiexecutor (from `../node_modules/react-native/ReactCommon/jsiexecutor`)
   - React-jsinspector (from `../node_modules/react-native/ReactCommon/jsinspector`)
   - React-logger (from `../node_modules/react-native/ReactCommon/logger`)
-  - react-native-agora (from `../..`)
+  - react-native-agora-with-banuba (from `../..`)
   - react-native-agora-rawdata (from `../node_modules/react-native-agora-rawdata`)
   - react-native-image-tools (from `../node_modules/react-native-image-tool`)
   - react-native-safe-area-context (from `../node_modules/react-native-safe-area-context`)
@@ -611,7 +611,7 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/jsinspector"
   React-logger:
     :path: "../node_modules/react-native/ReactCommon/logger"
-  react-native-agora:
+  react-native-agora-with-banuba:
     :path: "../.."
   react-native-agora-rawdata:
     :path: "../node_modules/react-native-agora-rawdata"
@@ -698,7 +698,7 @@ SPEC CHECKSUMS:
   React-jsiexecutor: d6b7fa9260aa3cb40afee0507e3bc1d17ecaa6f2
   React-jsinspector: 1f51e775819199d3fe9410e69ee8d4c4161c7b06
   React-logger: 0d58569ec51d30d1792c5e86a8e3b78d24b582c6
-  react-native-agora: f607be45a377188ac007c18a8a3c3340df67abe9
+  react-native-agora-with-banuba: f607be45a377188ac007c18a8a3c3340df67abe9
   react-native-agora-rawdata: 097895cdccd8fcf3cff5dffe23372f5d3c89fd31
   react-native-image-tools: 88218449791389bbf550a2c475a3b564c8233c8b
   react-native-safe-area-context: 39c2d8be3328df5d437ac1700f4f3a4f75716acc

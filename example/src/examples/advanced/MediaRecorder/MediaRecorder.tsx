@@ -12,7 +12,7 @@ import {
   RecorderInfo,
   RecorderState,
   createAgoraRtcEngine,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 import RNFS from 'react-native-fs';
 
 import {

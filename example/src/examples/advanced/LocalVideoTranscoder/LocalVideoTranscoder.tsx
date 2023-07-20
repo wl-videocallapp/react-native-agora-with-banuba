@@ -16,7 +16,7 @@ import createAgoraRtcEngine, {
   VideoMirrorModeType,
   VideoSourceType,
   showRPSystemBroadcastPickerView,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 
 import {
   BaseComponent,

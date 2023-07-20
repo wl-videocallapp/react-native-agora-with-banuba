@@ -9,7 +9,7 @@ import {
   VideoBufferType,
   VideoPixelFormat,
   createAgoraRtcEngine,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 // @ts-ignore
 import ImageTools from 'react-native-image-tool';
 

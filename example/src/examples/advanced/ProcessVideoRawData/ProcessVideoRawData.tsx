@@ -1,11 +1,11 @@
 import React, { ReactElement } from 'react';
+import * as RawData from 'react-native-agora-rawdata';
 import {
   ChannelProfileType,
   ClientRoleType,
   IRtcEngineEventHandler,
   createAgoraRtcEngine,
-} from 'react-native-agora';
-import * as RawData from 'react-native-agora-rawdata';
+} from 'react-native-agora-with-banuba';
 
 import {
   BaseComponent,

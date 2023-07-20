@@ -7,7 +7,7 @@ import {
   IRtcEngineEventHandler,
   RtcConnection,
   createAgoraRtcEngine,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 
 import {
   BaseComponent,

@@ -1,12 +1,12 @@
 > NOTE: These sdk and samples only for the Agora Video 4.x APIs. For examples using previous releases please see the following branches:
->  - [3.x](https://github.com/AgoraIO-Extensions/react-native-agora/tree/3.x)
+>  - [3.x](https://github.com/AgoraIO-Extensions/react-native-agora-with-banuba/tree/3.x)
 
-# react-native-agora
+# react-native-agora-with-banuba
 
-[![npm](https://img.shields.io/npm/v/react-native-agora.svg)](https://www.npmjs.com/package/react-native-agora)
-[![npm](https://img.shields.io/npm/dm/react-native-agora.svg)](https://www.npmjs.com/package/react-native-agora)
-[![npm](https://img.shields.io/npm/dt/react-native-agora.svg)](https://www.npmjs.com/package/react-native-agora)
-[![npm](https://img.shields.io/npm/l/react-native-agora.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/react-native-agora-with-banuba.svg)](https://www.npmjs.com/package/react-native-agora-with-banuba)
+[![npm](https://img.shields.io/npm/dm/react-native-agora-with-banuba.svg)](https://www.npmjs.com/package/react-native-agora-with-banuba)
+[![npm](https://img.shields.io/npm/dt/react-native-agora-with-banuba.svg)](https://www.npmjs.com/package/react-native-agora-with-banuba)
+[![npm](https://img.shields.io/npm/l/react-native-agora-with-banuba.svg)](LICENSE)
 
 This SDK takes advantage of React Native and Agora RTC Video SDK on Android && iOS.
 
@@ -25,16 +25,16 @@ contributions to React Native SDK.
 
 ### Installing (React Native >= 0.60.0)
 
-Install `react-native-agora`(^4.0.0):
+Install `react-native-agora-with-banuba`(^4.0.0):
 
 ```shell script
-yarn add react-native-agora
+yarn add react-native-agora-with-banuba
 ```
 
 or
 
 ```shell script
-npm i --save react-native-agora
+npm i --save react-native-agora-with-banuba
 ```
 
 Go to your **ios** folder and run:
@@ -46,7 +46,7 @@ pod install
 ## General Usage
 
 ```typescript
-import {createAgoraRtcEngine} from 'react-native-agora';
+import {createAgoraRtcEngine} from 'react-native-agora-with-banuba';
 
 const engine = createAgoraRtcEngine();
 engine.initialize({appId: 'YOUR APP ID'});
@@ -55,7 +55,7 @@ engine.initialize({appId: 'YOUR APP ID'});
 or
 
 ```javascript
-const createAgoraRtcEngine = require('react-native-agora');
+const createAgoraRtcEngine = require('react-native-agora-with-banuba');
 const engine = createAgoraRtcEngine();
 engine.initialize({appId: 'YOUR APP ID'});
 ```
@@ -128,7 +128,7 @@ Source: https://github.com/facebook/react-native/issues/25154
 * Complete [API Doc](https://docs.agora.io/en/) at the Developer Center
 * [Changelog](CHANGELOG.md)
 * [Release Notes](https://docs.agora.io/en/video-calling/reference/release-notes?platform=react-native)
-* [File bugs about this sample](https://github.com/AgoraIO-Extensions/react-native-agora/issues)
+* [File bugs about this sample](https://github.com/AgoraIO-Extensions/react-native-agora-with-banuba/issues)
 * [React Native Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ## Contributing

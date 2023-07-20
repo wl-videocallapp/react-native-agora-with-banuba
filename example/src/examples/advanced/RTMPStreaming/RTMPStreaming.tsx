@@ -13,7 +13,7 @@ import {
   VideoCodecProfileType,
   VideoCodecTypeForStream,
   createAgoraRtcEngine,
-} from 'react-native-agora';
+} from 'react-native-agora-with-banuba';
 import { ColorPicker, fromHsv } from 'react-native-color-picker';
 
 import {
